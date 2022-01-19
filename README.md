@@ -6,9 +6,12 @@
 #### 1.Power BI 📉
 #### 2.Python 🐍	
 #### 3.Machine Learning	🤖📈
+#### 4.SQL 📊
 
 ## Onde me encontrar 🌎
-### www.linkedin.com/in/zenildafonseca
+#### www.linkedin.com/in/zenildafonseca
+
+
 <!--
 **Nina-Fonseca/Nina-Fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

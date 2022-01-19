@@ -1,5 +1,5 @@
 ## Olá! Me chamo Zenilda. 👩‍💻👋
-### Sou Gestora de TI e estudante de Banco de Dados. Estou iniciando a carreira em Analista de BI e aprendendo programação. Essa carreira me desafia a todo instante e é disso que gosto: desafios.
+### Sou formada em Gestão de TI e estudante de Banco de Dados. Estou iniciando a carreira em Analista de BI e aprendendo programação. Essa carreira me desafia a todo instante e é disso que gosto: desafios.
 
 
 ## Skills 👩‍💻	

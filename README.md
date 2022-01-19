@@ -9,7 +9,7 @@
 #### 4.SQL 📊
 
 ## Onde me encontrar 🌎
-#### [Linkedin] (www.linkedin.com/in/zenildafonseca)
+#### [Linkedin](https://www.linkedin.com/in/zenildafonseca/)
 
 
 <!--
